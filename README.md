@@ -41,6 +41,6 @@ I'm a 6th-semester CS student with hands-on experience in data structures, algor
 3. Open `index.html` in your preferred web browser. Alternatively, you can use a local server like VS Code's "Live Server" extension for a better development experience.
 
 ## 📫 Contact
-- **GitHub**: [Hassan200r](https://github.com/hassanah-dev-cs)
+- **GitHub**: [hassanah-dev-cs](https://github.com/hassanah-dev-cs)
 - **LinkedIn**: [Hassan Ahmad](https://www.linkedin.com/in/hassan-ahmad-1992b6354/)
 - **Phone**: 03066703799
